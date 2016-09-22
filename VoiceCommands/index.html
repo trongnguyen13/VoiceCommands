@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="scripts/jquery-3.1.0.min.js"></script>
+    <script src="scripts/artyom.js"></script>
+</head>
+<body>
+    <!--<script type="text/javascript" src="scripts/artyomCommands.js"></script>-->
+    <div>
+        <input type="button" onclick="saysomething('hello')" value="hello" />
+        <input type="button" onclick="saysomething('hey')" value="hey" />
+        <input type="button" onclick="start()" value="Start"/>
+        <input type="button" onclick="stop()" value="Stop"/>
+        <span id="output"></span>
+    </div>
+    <script type="text/javascript">
+
+        artyom.addCommands([
+            {
+                description: "let say something",
+                indexes: ["hello", "hey"],
+                action: function (i) {
+                    if (i == 0) {
+                        artyom.say("Hello! how are you?");
+                    } else if(i==1) {
+                        artyom.say("How can i help you?");
+                    }
+                }
+            }, {
+                indexes: ["goodbye"],
+                action: function () {
+                    alert("over");
+                }
+            }
+        ]);
+
+        artyom.redirectRecognizedTextOutput(function (text, isFinal) {
+            var span = document.getElementById("output");
+            if (isFinal) {
+                span.innerHTML = "";
+            } else {
+                span.innerHTML = text;
+            }
+        });
+
+        function saysomething(text) {
+            artyom.simulateInstruction(text);
+        }
+
+        function start() {
+            artyom.initialize({
+                lang: "en-GB",// More languages are documented in the library
+                continuous: false,//if you have https connection, you can activate continuous mode
+                debug: true,//Show everything in the console
+                listen: true // Start listening when this function is triggered
+            });
+        }
+       
+        function stop() {
+
+        }
+    </script>
+</body>
+</html>
