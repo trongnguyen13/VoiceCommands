@@ -20,12 +20,12 @@
         artyom.addCommands([
             {
                 description: "let say something",
-                indexes: ["hello", "hey"],
+                indexes: ["audit", "report"],
                 action: function (i) {
                     if (i == 0) {
-                        artyom.say("Hello! how are you?");
+                        artyom.say("audit");
                     } else if(i==1) {
-                        artyom.say("How can i help you?");
+                        artyom.say("report");
                     }
                 }
             }, {

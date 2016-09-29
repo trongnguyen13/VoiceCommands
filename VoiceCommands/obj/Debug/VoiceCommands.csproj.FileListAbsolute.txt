@@ -29,3 +29,4 @@ c:\users\nguyen\documents\visual studio 2015\Projects\VoiceCommands\VoiceCommand
 c:\users\nguyen\documents\visual studio 2015\Projects\VoiceCommands\VoiceCommands\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\nguyen\documents\visual studio 2015\Projects\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.dll
 c:\users\nguyen\documents\visual studio 2015\Projects\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.pdb
+C:\Users\nguyen\Documents\Visual Studio 2015\Projects\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.csprojResolveAssemblyReference.cache
