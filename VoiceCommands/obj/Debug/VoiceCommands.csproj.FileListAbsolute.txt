@@ -30,3 +30,35 @@ c:\users\nguyen\documents\visual studio 2015\Projects\VoiceCommands\VoiceCommand
 c:\users\nguyen\documents\visual studio 2015\Projects\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.dll
 c:\users\nguyen\documents\visual studio 2015\Projects\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.pdb
 C:\Users\nguyen\Documents\Visual Studio 2015\Projects\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.csprojResolveAssemblyReference.cache
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\csc.exe
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\vbc.exe
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\VBCSCompiler.exe
+D:\Code\VoiceCommands\VoiceCommands\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\VoiceCommands\VoiceCommands\bin\VoiceCommands.dll.config
+D:\Code\VoiceCommands\VoiceCommands\bin\VoiceCommands.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\VoiceCommands.pdb
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.DependencyCollector.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.Web.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.WindowsServer.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.ApplicationInsights.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.DependencyCollector.xml
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.Web.xml
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.AI.WindowsServer.xml
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.ApplicationInsights.xml
+D:\Code\VoiceCommands\VoiceCommands\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.csprojResolveAssemblyReference.cache
+D:\Code\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.dll
+D:\Code\VoiceCommands\VoiceCommands\obj\Debug\VoiceCommands.pdb

@@ -123,6 +123,11 @@
                 transformOrigin: "50% 50%"
             }, .15);
         }
+
+        function speak() {
+            var utterance = new SpeechSynthesisUtterance('Hello Treehouse');
+            window.speechSynthesis.speak(utterance);
+        }
     </script>
 </head>
 <body style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
@@ -152,7 +157,10 @@
                 <textarea id="output" style='width:400px;height:200px'></textarea>
             </td>
         </tr>
-
+        <tr>
+            <td />
+            <td><button onclick="speak()">Speak</button></td>
+        </tr>
     </table>
 
     <div style="width:100px; height:100px; margin:50px">
